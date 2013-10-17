@@ -6,6 +6,6 @@ public class Suma {
 	}
 
 	public double incrementa(double operando) {
-		return operando + 2;
+		return operando + 1;
 	}
 }
